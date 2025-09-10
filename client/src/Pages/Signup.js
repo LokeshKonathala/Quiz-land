@@ -26,7 +26,7 @@ const Signup = () => {
       return handleError('All fields are required')
     }
     try {
-      const url = 'http://localhost:7000/auth/signup'
+      const url = 'https://quiz-land-dusky.vercel.app/auth/signup'
       const response = await fetch(url, {
         method: 'POST',
         headers: {
