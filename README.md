@@ -19,7 +19,6 @@
   - Users are welcomed by name after login
 - ❓ **Quiz System**
   - 10 dynamic questions fetched from the Trivia API
-  - Real-time quiz rendering and interaction
   - Final score displayed in **percentage**
 - 🔁 **Flow Control**
   - After completing the quiz, user is logged out automatically
@@ -35,7 +34,6 @@
 ### ⚛️ Frontend
 - **React.js** – Component-based UI
 - **Ant Design (antd)** – Elegant and responsive UI components
-- **Deployed on Vercel**
 
 ### 🔧 Backend
 - **Node.js** – Server-side runtime
@@ -43,5 +41,5 @@
 - **JWT** – Token-based authentication for security
 
 ### 🗃️ Database
-- **MongoDB** – NoSQL database to store user credentials and quiz metadata
+- **MongoDB** – NoSQL database to store user credentials and quiz data
 
