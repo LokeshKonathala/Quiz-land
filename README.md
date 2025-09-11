@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Visit Quiz Hub](https://quiz-hub-eight.vercel.app/login)
+👉 [Visit Quiz Hub](https://quiz-land-client.vercel.app/signup)
 
 ---
 
